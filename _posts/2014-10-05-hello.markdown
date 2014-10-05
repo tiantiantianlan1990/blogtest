@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "hello"
+layout: mylayout
+title:  hello
 ---
 
 Hello jekyll!
